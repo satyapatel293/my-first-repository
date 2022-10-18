@@ -1,5 +1,4 @@
-# README #
-# LEarning Git
+# Learning Git
 
 Important steps for git workflow 
 
@@ -9,3 +8,5 @@ Important steps for git workflow
 4. Stage changes for commit 
 5. Commit change to version history 
 6. Review previous changes with git log
+
+has example file.txt
