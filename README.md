@@ -9,4 +9,4 @@ Important steps for git workflow
 5. Commit change to version history 
 6. Review previous changes with git log
 
-has example file.txt
+this is an update
